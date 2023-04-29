@@ -1,0 +1,19 @@
+{
+  "name": "rahulecomm",
+  "version": "1.0.0",
+  "description": "This is the demo project for ecommerse to hands on the functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainrahul5977/rahulEcomm.git"
+  },
+  "author": "Rahul Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jainrahul5977/rahulEcomm/issues"
+  },
+  "homepage": "https://github.com/jainrahul5977/rahulEcomm#readme"
+}
